@@ -29,19 +29,3 @@ This project implements a **Deep Recurrent Q-Network (DRQN)** to optimize task s
 - **Types of Offloading**: Includes partial, full, adaptive, and delay-tolerant offloading strategies to balance resource use and latency.
 - **Deep Recurrent Q-Network (DRQN)**: Incorporates LSTM layers to manage sequential data and dynamic network conditions, improving task scheduling in a partially observable environment.
 
-## Project Structure
-
-```plaintext
-├── models/
-│   ├── drqn_model.py        # DRQN model architecture
-├── env/
-│   ├── fog_environment.py   # Fog environment simulation
-├── training/
-│   ├── train.py             # DRQN model training script
-├── evaluation/
-│   ├── eval.py              # Performance evaluation script
-├── utils/
-│   ├── replay_buffer.py     # Experience replay buffer for DRQN training
-├── outputs/
-│   ├── results/             # Log files and results of experiments
-└── README.md
