@@ -24,7 +24,7 @@ This approach enables efficient partial offloading and task scheduling in SDN-Fo
 
 ## Authors
 - ***Ankur Jat*** - [221CS208]
-Sandeep R - [221CS244]
-Sidharth TR - [221CS249]
-Vishvendra Singh - [221CS263]
+- ***Sandeep R*** - [221CS244]
+- ***Sidharth TR*** - [221CS249]
+- ***Vishvendra Singh*** - [221CS263]
 
