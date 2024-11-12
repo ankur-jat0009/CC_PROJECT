@@ -23,7 +23,7 @@ This project implements a **Deep Recurrent Q-Network (DRQN)** to optimize task s
 This approach enables efficient partial offloading and task scheduling in SDN-Fog networks, optimizing energy use and meeting latency constraints in a dynamically changing environment. Future work may explore more compact neural architectures suitable for low-power IoT devices, further enhancing the adaptability and scalability of the solution.
 
 ## Authors
-Ankur Jat - [221CS208]
+- ***Ankur Jat*** - [221CS208]
 Sandeep R - [221CS244]
 Sidharth TR - [221CS249]
 Vishvendra Singh - [221CS263]
